@@ -1,0 +1,22 @@
+.mask{
+    padding-top: 100px;
+    padding-right: 500px;
+}
+#nav{
+    background-color: blue;
+}
+#cn{
+    padding-left: 1000px;
+    color: blue;
+}
+.logo{
+    padding-left: 30px;
+}
+p{
+    text-align: center;
+    
+    padding-top: 80px;
+    padding-bottom: 40px;
+
+
+}

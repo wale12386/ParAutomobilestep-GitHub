@@ -1,0 +1,43 @@
+
+  
+ * {
+    outline: none;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+   }
+
+
+.jumbotron{
+    background-image: url("img/back2.jpg") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-color: transparent;
+    
+}
+
+  .back h2{
+    background: filter blur(5px);
+    font-family:sans-serif; 
+    color: #eff2f5;
+    padding-top: 150px;
+    padding-bottom: 50px;
+   font-size: 50px;
+  
+}
+
+.back p{ 
+    backdrop-filter: blur(8px);
+    padding: 10px 25px;
+   font-size: 30px;
+   color: #000;
+   margin: 200px 0;
+   position: relative;
+   top: 50px;
+}
+
+.back button{
+    margin-bottom: 50px;
+    font-size: 30px;
+}
